@@ -292,11 +292,3 @@ playwright show-trace trace.zip
 
 MIT License
 
-## ✨ Author
-
-สร้างด้วย ❤️ โดยใช้ Playwright และ Python
-
----
-
-**Happy Testing! 🎉**
-"# automated_testing-python" 
